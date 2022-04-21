@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+body{
+    background-color: rgb(189, 235, 250);
+}
+h1{
+    color:royalblue;font-family: 'Permanent Marker';font-size: 60px;
+}
+#basketball{
+    color:coral;font-weight: bold;
+}
+#baseball{
+    color:red;font-weight: bold;
+}
+#music{
+    color:rgb(43, 149, 191);font-weight: bold;
+}
+#videogame{
+    color:hotpink;font-weight: bold;
+}
+a:hover{
+    color:red;
+}
+footer{
+    background-color: rgb(166, 206, 242);
+}
